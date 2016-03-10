@@ -1,0 +1,4 @@
+*.exe
+/key
+/pub
+/dll

@@ -1,0 +1,3 @@
+del *.dcu
+del *.~*
+pause
